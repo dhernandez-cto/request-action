@@ -1,2 +1,5 @@
-dist
-node_modules
+# InteliJ Preferences
+.idea
+
+# VS Code Preference
+.history/
